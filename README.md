@@ -13,11 +13,12 @@ This repository contains the code and documentation for a 360-Degree Feedback so
 - **PDF Documentation**: You can download our PDF documentation from [here](https://drive.google.com/drive/folders/1iMRBhs91exi_Q-Zhb-0N2q606N-LXH9g?usp=drive_link).
 
 - **Front-end Repository**: The source code for our front-end website is available on GitHub: [Front-end Repository](https://github.com/Paras-Roy/news_sentinel).
-- **Machine Learning Notebooks**:  [Transcription](https://www.kaggle.com/code/anshtanwar/transcription-whisper-model) | [Classification](https://www.kaggle.com/code/anshtanwar/classify-news) 
+  
+- **Machine Learning Notebooks**:  [Transcription](https://www.kaggle.com/code/anshtanwar/transcription-whisper-model) | [Classification](https://www.kaggle.com/code/anshtanwar/classify-news)
   
 ## Advanced Technologies Used
 
-- **IndicBERT Models**: We utilize state-of-the-art IndicBERT models, incorporating research from IIT Madras, to analyze regional news in major Indian languages with high accuracy.
+- **IndicBERT Models**: We utilize state-of-the-art IndicBERT models, incorporating research from IIT Madras, to analyze regional news in major Indian languages with State of the Art performance
 
 - **NLP Techniques**: Our system employs advanced NLP techniques, including transformers, Speech-to-Text, and Optical Character Recognition (OCR) capabilities, to extract and analyze news content.
 
