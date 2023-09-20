@@ -1,6 +1,4 @@
-# 360-Degree Feedback Software for Government of India News Stories
-
-![Project Logo](project_logo.png)
+# Team Gatiman
 
 ## Overview
 
@@ -25,6 +23,8 @@ This section lists the major frameworks and libraries used to bootstrap our proj
 - **Flask**: Powers the backend of our application, handling data processing and serving API endpoints.
 
 - **Node.js**: Used for server-side scripting and for managing dependencies.
+
+- **Ai4Bharat**: Leveraged for specialized AI and NLP capabilities tailored to Indian languages and regional media analysis.
 
 ## Data Aggregation & Department Categorization
 
