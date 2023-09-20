@@ -6,13 +6,14 @@ This repository contains the code and documentation for a 360-Degree Feedback so
 
 ## Documentation and Presentation
 
-- **User Manual**: For detailed instructions on how to install and use the software, please refer to the [Installation Guide](docs/INSTALL.md) and [User Manual](docs/USER_MANUAL.md) in the documentation folder.
-
 - **Presentation**: You can also view our project presentation on Google Slides: [360-Degree Feedback Software Presentation](https://docs.google.com/presentation/d/1CQxLp7KTIL6lFj_IGeytFig2zTveJV-oHmVmx2IRhMQ/edit?usp=sharing).
 
 - **Website**: Visit our project website at [https://news-sentinel.vercel.app](https://news-sentinel.vercel.app) to access the live application and explore its features.
 
 - **PDF Documentation**: You can download our PDF documentation from [here](https://drive.google.com/drive/folders/1iMRBhs91exi_Q-Zhb-0N2q606N-LXH9g?usp=drive_link).
+
+- **Front-end Repository**: The source code for our front-end website is available on GitHub: [Front-end Repository](https://github.com/Paras-Roy/news_sentinel).
+
 
   
 ## Advanced Technologies Used
