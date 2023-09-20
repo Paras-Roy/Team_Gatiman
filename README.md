@@ -13,7 +13,7 @@ This repository contains the code and documentation for a 360-Degree Feedback so
 - **PDF Documentation**: You can download our PDF documentation from [here](https://drive.google.com/drive/folders/1iMRBhs91exi_Q-Zhb-0N2q606N-LXH9g?usp=drive_link).
 
 - **Front-end Repository**: The source code for our front-end website is available on GitHub: [Front-end Repository](https://github.com/Paras-Roy/news_sentinel).
-- **Machine Learning Notebooks**: (Classification)[https://www.kaggle.com/code/anshtanwar/classify-news] | (Transcription)[https://www.kaggle.com/code/anshtanwar/transcription-whisper-model]
+- **Machine Learning Notebooks**:  [Transcription](https://www.kaggle.com/code/anshtanwar/transcription-whisper-model) | [Classification](https://www.kaggle.com/code/anshtanwar/classify-news) 
   
 ## Advanced Technologies Used
 
