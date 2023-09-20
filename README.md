@@ -4,6 +4,16 @@
 
 This repository contains the code and documentation for a 360-Degree Feedback software designed to analyze news stories related to the Government of India in regional media using advanced Artificial Intelligence (AI) and Machine Learning (ML) techniques. The project leverages state-of-the-art IndicBERT models and cutting-edge Natural Language Processing (NLP) techniques to provide sentiment analysis and categorization of news stories by department. Additionally, it offers an intuitive dashboard for efficient content sorting, filtering, and inspection.
 
+## Documentation and Presentation
+
+- **User Manual**: For detailed instructions on how to install and use the software, please refer to the [Installation Guide](docs/INSTALL.md) and [User Manual](docs/USER_MANUAL.md) in the documentation folder.
+
+- **Presentation**: You can also view our project presentation on Google Slides: [360-Degree Feedback Software Presentation](https://docs.google.com/presentation/d/1CQxLp7KTIL6lFj_IGeytFig2zTveJV-oHmVmx2IRhMQ/edit?usp=sharing).
+
+- **Website**: Visit our project website at [https://news-sentinel.vercel.app](https://news-sentinel.vercel.app) to access the live application and explore its features.
+sharing).
+
+  
 ## Advanced Technologies Used
 
 - **IndicBERT Models**: We utilize state-of-the-art IndicBERT models, incorporating research from IIT Madras, to analyze regional news in major Indian languages with high accuracy.
