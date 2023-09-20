@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and documentation for a 360-Degree Feedback software designed to analyze news stories related to the Government of India in regional media using advanced Artificial Intelligence (AI) and Machine Learning (ML) techniques. The project leverages state-of-the-art IndicBERT models and cutting-edge Natural Language Processing (NLP) techniques to provide sentiment analysis and categorization of news stories by department. Additionally, it offers an intuitive dashboard for efficient content sorting, filtering, and inspection.
+This repository contains the code and documentation for a 360-Degree Feedback software designed to analyze news stories related to the Government of India in regional media using advanced Artificial Intelligence (AI) and Machine Learning (ML) techniques. The project leverages state-of-the-art IndicBERT models, Openai/whisper and other cutting-edge Natural Language Processing (NLP) techniques to provide sentiment analysis and categorization of news stories and generate Transcriptions. Additionally, it offers an intuitive dashboard for efficient content sorting, filtering, and inspection.
 
 ## Documentation and Presentation
 
