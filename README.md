@@ -51,20 +51,4 @@ This section lists the major frameworks and libraries used to bootstrap our proj
 
 - **Prediction Pipeline**: A streamlined pipeline is set up to preprocess new data and pass it through the model for accurate sentiment analysis and categorization.
 
-## Installation and Usage
-
-For detailed instructions on how to install and use the software, please refer to the [Installation Guide](docs/INSTALL.md) and [User Manual](docs/USER_MANUAL.md) in the documentation folder.
-
-## Contributing
-
-We welcome contributions from the community to enhance this project. Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For inquiries, support, or feedback, please contact us at [contact@example.com](mailto:contact@example.com).
-
 ---
