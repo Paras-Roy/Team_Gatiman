@@ -1,4 +1,4 @@
-# Team Gatiman (swift invoice)
+# Team Gatiman (360-Degree Feedback software)
 
 ## Overview
 
