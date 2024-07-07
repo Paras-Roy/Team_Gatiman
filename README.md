@@ -1,4 +1,4 @@
-# Team Gatiman (360-Degree Feedback software)
+# Team Gatiman (360-Degree Feedback Software)
 
 ## Overview
 
@@ -62,6 +62,6 @@ This section lists the major frameworks and libraries used to bootstrap our proj
 
 - **IndicBERT Fine-Tuning**: We fine-tune a pretrained IndicBERT model to achieve high-quality predictions on regional news content.
 
-- **Prediction Pipeline**: A streamlined pipeline is set up to preprocess new data and pass it through the model for accurate sentiment analysis and categorization.
+- **Prediction Pipeline**: A streamlined pipeline is set up to preprocess new data and pass it through the model for accurate sentiment analysis and Categorization.
 
 ---
